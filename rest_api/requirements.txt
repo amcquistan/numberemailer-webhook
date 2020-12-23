@@ -1,0 +1,6 @@
+flask-lambda
+boto3
+requests
+aws-psycopg2
+flask-cors
+smart_open[s3]
